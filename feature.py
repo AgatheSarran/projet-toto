@@ -1,2 +1,2 @@
 def encoder():
-    pass
+    return None
